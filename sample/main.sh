@@ -6,7 +6,7 @@ RESULTS_DIR="./results"
 #test
 #bash $OPTPATH/optimization.sh $HOMEPATH $OPTPATH $BENCHPATH $RESULTPATH $CWPATH "FS1-1" "Small" "CMAES" 0 2 10 0 20
 
-bash optimizer/optimization.sh $MASBENCH_JAR $RESULTS_DIR FS1-1 RS 0 2 10 0 20
+bash optimizer/optimization.sh $MASBENCH_JAR $RESULTS_DIR FS1-2 CMAES 0 2 10 0 2
 
 #Small Size
 #bash $OPTPATH/optimization.sh $HOMEPATH $OPTPATH $BENCHPATH $RESULTPATH $CWPATH "FS1-1" "Small" "RS" 0 40 20 0 20

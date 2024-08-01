@@ -98,6 +98,10 @@ public class PropertiesFileGenerator {
           "        node_tag: 'EXIT_STATION_ROOT'\r\n" + 
           "      },\r\n" + 
           "      {\r\n" + 
+          "        link_tag: 'test',\r\n" + 
+          "        node_tag: 'X_R1-R2'\r\n" + 
+          "      },\r\n" + 
+          "      {\r\n" + 
           "        link_tag: 'GL_R2',\r\n" + 
           "        node_tag: 'EXIT_STATION_ROOT'\r\n" + 
           "      },\r\n" + 

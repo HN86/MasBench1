@@ -13802,6 +13802,7 @@
       <tag>ROUTE23_LINK</tag>
       <tag>X1_R2</tag>
       <tag>ONE-WAY-FORWARD</tag>
+      <tag>test</tag>
     </Link>
     <Node height="0.0" id="_p00017" x="-3803.791628627087" y="-104767.31347195488">
       <link id="_p00024"/>
